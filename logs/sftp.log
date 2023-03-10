@@ -1,0 +1,446 @@
+Apr  7 13:37:52 10.71.56.0 u79318824 Connection from 10.71.56.0 port 63036 on 82.165.85.60 port 22
+Apr  7 13:38:02 10.71.56.0 u79318824 Failed password for u79318824 from 10.71.56.0 port 63036 ssh2
+Apr  7 13:38:13 10.71.56.0 u79318824 Connection from 10.71.56.0 port 35464 on 82.165.85.60 port 22
+Apr  7 13:38:15 10.71.56.0 u79318824 Failed password for u79318824 from 10.71.56.0 port 35464 ssh2
+Apr  7 13:38:36 10.71.56.0 u79318824 Connection from 10.71.56.0 port 14662 on 82.165.85.60 port 22
+Apr  7 13:38:38 10.71.56.0 u79318824 Failed password for u79318824 from 10.71.56.0 port 14662 ssh2
+Apr  7 13:39:31 10.71.57.0 u79318824 Connection from 10.71.57.0 port 14790 on 82.165.85.60 port 22
+Apr  7 13:39:33 10.71.57.0 u79318824 Failed password for u79318824 from 10.71.57.0 port 14790 ssh2
+Apr  7 14:44:58 10.71.56.0 u79318824 Connection from 10.71.56.0 port 36478 on 82.165.85.60 port 22
+Apr  7 14:45:04 10.71.56.0 u79318824 Accepted password for u79318824 from 10.71.56.0 port 36478 ssh2
+Apr  7 14:45:04 10.71.56.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.56.0 port 36478 id 0
+Apr  7 14:45:04 10.71.56.0 u79318824 session opened for local user u79318824 from [10.71.56.0]
+Apr  7 14:48:24 10.71.56.0 u79318824 Connection from 10.71.56.0 port 39676 on 82.165.85.60 port 22
+Apr  7 14:48:25 10.71.56.0 u79318824 Accepted password for u79318824 from 10.71.56.0 port 39676 ssh2
+Apr  7 14:48:24 10.71.56.0 u79318824 Connection from 10.71.56.0 port 39688 on 82.165.85.60 port 22
+Apr  7 14:48:25 10.71.56.0 u79318824 Accepted password for u79318824 from 10.71.56.0 port 39688 ssh2
+Apr  7 14:48:25 10.71.56.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.56.0 port 39676 id 0
+Apr  7 14:48:25 10.71.56.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.56.0 port 39688 id 0
+Apr  7 14:48:25 10.71.56.0 u79318824 session opened for local user u79318824 from [10.71.56.0]
+Apr  7 14:48:25 10.71.56.0 u79318824 session opened for local user u79318824 from [10.71.56.0]
+Apr  7 14:48:25 10.71.56.0 u79318824 open "/alterationsservice.html" flags READ mode 0666
+Apr  7 14:48:25 10.71.56.0 u79318824 open "/commercial.html" flags READ mode 0666
+Apr  7 14:48:25 10.71.56.0 u79318824 close "/alterationsservice.html" bytes read 3801 written 0
+Apr  7 14:48:25 10.71.56.0 u79318824 [10.71.56.0|get|0|3801|0|0|0|2f616c7465726174696f6e73736572766963652e68746d6c|]
+Apr  7 14:48:25 10.71.56.0 u79318824 close "/commercial.html" bytes read 2623 written 0
+Apr  7 14:48:25 10.71.56.0 u79318824 [10.71.56.0|get|0|2623|0|0|0|2f636f6d6d65726369616c2e68746d6c|]
+Apr  7 14:48:25 10.71.56.0 u79318824 sent status No such file
+Apr  7 14:48:25 10.71.56.0 u79318824 open "/contactus.html" flags READ mode 0666
+Apr  7 14:48:25 10.71.56.0 u79318824 open "/drycleaningservice.html" flags READ mode 0666
+Apr  7 14:48:25 10.71.56.0 u79318824 close "/contactus.html" bytes read 3127 written 0
+Apr  7 14:48:25 10.71.56.0 u79318824 [10.71.56.0|get|0|3127|0|0|0|2f636f6e7461637475732e68746d6c|]
+Apr  7 14:48:25 10.71.56.0 u79318824 close "/drycleaningservice.html" bytes read 9764 written 0
+Apr  7 14:48:25 10.71.56.0 u79318824 [10.71.56.0|get|0|9764|0|0|0|2f647279636c65616e696e67736572766963652e68746d6c|]
+Apr  7 14:48:26 10.71.56.0 u79318824 open "/index.html" flags READ mode 0666
+Apr  7 14:48:26 10.71.56.0 u79318824 open "/ironingservice.html" flags READ mode 0666
+Apr  7 14:48:26 10.71.56.0 u79318824 close "/index.html" bytes read 3008 written 0
+Apr  7 14:48:26 10.71.56.0 u79318824 [10.71.56.0|get|0|3008|0|0|0|2f696e6465782e68746d6c|]
+Apr  7 14:48:26 10.71.56.0 u79318824 close "/ironingservice.html" bytes read 2651 written 0
+Apr  7 14:48:26 10.71.56.0 u79318824 [10.71.56.0|get|0|2651|0|0|0|2f69726f6e696e67736572766963652e68746d6c|]
+Apr  7 14:48:26 10.71.56.0 u79318824 open "/rls.css" flags READ mode 0666
+Apr  7 14:48:26 10.71.56.0 u79318824 open "/services.html" flags READ mode 0666
+Apr  7 14:48:26 10.71.56.0 u79318824 close "/rls.css" bytes read 1068 written 0
+Apr  7 14:48:26 10.71.56.0 u79318824 [10.71.56.0|get|0|1068|0|0|0|2f726c732e637373|]
+Apr  7 14:48:26 10.71.56.0 u79318824 close "/services.html" bytes read 2661 written 0
+Apr  7 14:48:26 10.71.56.0 u79318824 [10.71.56.0|get|0|2661|0|0|0|2f73657276696365732e68746d6c|]
+Apr  7 14:48:26 10.71.56.0 u79318824 session closed for local user u79318824 from [10.71.56.0]
+Apr  7 14:48:26 10.71.56.0 u79318824 open "/washingservice.html" flags READ mode 0666
+Apr  7 14:48:26 10.71.56.0 u79318824 Connection closed by 10.71.56.0 port 39688
+Apr  7 14:48:26 10.71.56.0 u79318824 close "/washingservice.html" bytes read 4765 written 0
+Apr  7 14:48:26 10.71.56.0 u79318824 [10.71.56.0|get|0|4765|0|0|0|2f77617368696e67736572766963652e68746d6c|]
+Apr  7 14:48:26 10.71.56.0 u79318824 session closed for local user u79318824 from [10.71.56.0]
+Apr  7 14:48:26 10.71.56.0 u79318824 Connection closed by 10.71.56.0 port 39676
+Apr  7 14:48:27 10.71.57.0 u79318824 Connection from 10.71.57.0 port 15476 on 82.165.85.60 port 22
+Apr  7 14:48:27 10.71.57.0 u79318824 Accepted password for u79318824 from 10.71.57.0 port 15476 ssh2
+Apr  7 14:48:27 10.71.57.0 u79318824 Connection from 10.71.57.0 port 15630 on 82.165.85.60 port 22
+Apr  7 14:48:27 10.71.57.0 u79318824 Accepted password for u79318824 from 10.71.57.0 port 15630 ssh2
+Apr  7 14:48:27 10.71.57.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.57.0 port 15476 id 0
+Apr  7 14:48:27 10.71.57.0 u79318824 session opened for local user u79318824 from [10.71.57.0]
+Apr  7 14:48:27 10.71.57.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.57.0 port 15630 id 0
+Apr  7 14:48:27 10.71.57.0 u79318824 session opened for local user u79318824 from [10.71.57.0]
+Apr  7 14:48:27 10.71.57.0 u79318824 open "/images/washservice.jpg" flags READ mode 0666
+Apr  7 14:48:27 10.71.57.0 u79318824 open "/images/towels.jpg" flags READ mode 0666
+Apr  7 14:48:27 10.71.57.0 u79318824 close "/images/washservice.jpg" bytes read 36759 written 0
+Apr  7 14:48:27 10.71.57.0 u79318824 [10.71.57.0|get|0|36759|0|0|0|2f696d616765732f77617368736572766963652e6a7067|]
+Apr  7 14:48:27 10.71.57.0 u79318824 close "/images/towels.jpg" bytes read 129037 written 0
+Apr  7 14:48:27 10.71.57.0 u79318824 [10.71.57.0|get|0|129037|0|0|0|2f696d616765732f746f77656c732e6a7067|]
+Apr  7 14:48:27 10.71.57.0 u79318824 open "/images/pinsandtape.jpg" flags READ mode 0666
+Apr  7 14:48:28 10.71.57.0 u79318824 open "/images/pickupdelivery2.jpg" flags READ mode 0666
+Apr  7 14:48:28 10.71.57.0 u79318824 close "/images/pinsandtape.jpg" bytes read 59501 written 0
+Apr  7 14:48:28 10.71.57.0 u79318824 [10.71.57.0|get|1|59501|0|0|0|2f696d616765732f70696e73616e64746170652e6a7067|]
+Apr  7 14:48:28 10.71.57.0 u79318824 close "/images/pickupdelivery2.jpg" bytes read 82903 written 0
+Apr  7 14:48:28 10.71.57.0 u79318824 [10.71.57.0|get|0|82903|0|0|0|2f696d616765732f7069636b757064656c6976657279322e6a7067|]
+Apr  7 14:48:28 10.71.57.0 u79318824 open "/images/machine.jpg" flags READ mode 0666
+Apr  7 14:48:28 10.71.57.0 u79318824 open "/images/linkserviceshover.jpg" flags READ mode 0666
+Apr  7 14:48:28 10.71.57.0 u79318824 close "/images/machine.jpg" bytes read 65347 written 0
+Apr  7 14:48:28 10.71.57.0 u79318824 [10.71.57.0|get|0|65347|0|0|0|2f696d616765732f6d616368696e652e6a7067|]
+Apr  7 14:48:28 10.71.57.0 u79318824 close "/images/linkserviceshover.jpg" bytes read 13986 written 0
+Apr  7 14:48:28 10.71.57.0 u79318824 [10.71.57.0|get|0|13986|0|0|0|2f696d616765732f6c696e6b7365727669636573686f7665722e6a7067|]
+Apr  7 14:48:28 10.71.57.0 u79318824 open "/images/linkservices.jpg" flags READ mode 0666
+Apr  7 14:48:28 10.71.57.0 u79318824 open "/images/linkhomehover.jpg" flags READ mode 0666
+Apr  7 14:48:28 10.71.57.0 u79318824 close "/images/linkservices.jpg" bytes read 15084 written 0
+Apr  7 14:48:28 10.71.57.0 u79318824 [10.71.57.0|get|0|15084|0|0|0|2f696d616765732f6c696e6b73657276696365732e6a7067|]
+Apr  7 14:48:28 10.71.57.0 u79318824 close "/images/linkhomehover.jpg" bytes read 13856 written 0
+Apr  7 14:48:28 10.71.57.0 u79318824 [10.71.57.0|get|0|13856|0|0|0|2f696d616765732f6c696e6b686f6d65686f7665722e6a7067|]
+Apr  7 14:48:28 10.71.57.0 u79318824 open "/images/linkhome.jpg" flags READ mode 0666
+Apr  7 14:48:28 10.71.57.0 u79318824 open "/images/linkcontactushover.jpg" flags READ mode 0666
+Apr  7 14:48:28 10.71.57.0 u79318824 close "/images/linkhome.jpg" bytes read 14159 written 0
+Apr  7 14:48:28 10.71.57.0 u79318824 [10.71.57.0|get|0|14159|0|0|0|2f696d616765732f6c696e6b686f6d652e6a7067|]
+Apr  7 14:48:28 10.71.57.0 u79318824 close "/images/linkcontactushover.jpg" bytes read 15669 written 0
+Apr  7 14:48:28 10.71.57.0 u79318824 [10.71.57.0|get|0|15669|0|0|0|2f696d616765732f6c696e6b636f6e746163747573686f7665722e6a7067|]
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/linkcontactus.jpg" flags READ mode 0666
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/linkcommercialhover.jpg" flags READ mode 0666
+Apr  7 14:48:29 10.71.57.0 u79318824 close "/images/linkcontactus.jpg" bytes read 15179 written 0
+Apr  7 14:48:29 10.71.57.0 u79318824 [10.71.57.0|get|0|15179|0|0|0|2f696d616765732f6c696e6b636f6e7461637475732e6a7067|]
+Apr  7 14:48:29 10.71.57.0 u79318824 close "/images/linkcommercialhover.jpg" bytes read 15097 written 0
+Apr  7 14:48:29 10.71.57.0 u79318824 [10.71.57.0|get|0|15097|0|0|0|2f696d616765732f6c696e6b636f6d6d65726369616c686f7665722e6a7067|]
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/linkcommercial.jpg" flags READ mode 0666
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/laundry1.jpg" flags READ mode 0666
+Apr  7 14:48:29 10.71.57.0 u79318824 close "/images/linkcommercial.jpg" bytes read 15424 written 0
+Apr  7 14:48:29 10.71.57.0 u79318824 [10.71.57.0|get|0|15424|0|0|0|2f696d616765732f6c696e6b636f6d6d65726369616c2e6a7067|]
+Apr  7 14:48:29 10.71.57.0 u79318824 close "/images/laundry1.jpg" bytes read 84082 written 0
+Apr  7 14:48:29 10.71.57.0 u79318824 [10.71.57.0|get|0|84082|0|0|0|2f696d616765732f6c61756e647279312e6a7067|]
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/ironservice.jpg" flags READ mode 0666
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/index.html" flags READ mode 0666
+Apr  7 14:48:29 10.71.57.0 u79318824 close "/images/ironservice.jpg" bytes read 33685 written 0
+Apr  7 14:48:29 10.71.57.0 u79318824 [10.71.57.0|get|0|33685|0|0|0|2f696d616765732f69726f6e736572766963652e6a7067|]
+Apr  7 14:48:29 10.71.57.0 u79318824 close "/images/index.html" bytes read 229 written 0
+Apr  7 14:48:29 10.71.57.0 u79318824 [10.71.57.0|get|0|229|0|0|0|2f696d616765732f696e6465782e68746d6c|]
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/homeshopfront.jpg" flags READ mode 0666
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/homemainpic.jpg" flags READ mode 0666
+Apr  7 14:48:29 10.71.57.0 u79318824 close "/images/homeshopfront.jpg" bytes read 167680 written 0
+Apr  7 14:48:29 10.71.57.0 u79318824 [10.71.57.0|get|0|167680|0|0|0|2f696d616765732f686f6d6573686f7066726f6e742e6a7067|]
+Apr  7 14:48:29 10.71.57.0 u79318824 close "/images/homemainpic.jpg" bytes read 73687 written 0
+Apr  7 14:48:29 10.71.57.0 u79318824 [10.71.57.0|get|0|73687|0|0|0|2f696d616765732f686f6d656d61696e7069632e6a7067|]
+Apr  7 14:48:29 10.71.57.0 u79318824 open "/images/footer.jpg" flags READ mode 0666
+Apr  7 14:48:30 10.71.57.0 u79318824 open "/images/drycleanservice.jpg" flags READ mode 0666
+Apr  7 14:48:30 10.71.57.0 u79318824 close "/images/footer.jpg" bytes read 16449 written 0
+Apr  7 14:48:30 10.71.57.0 u79318824 [10.71.57.0|get|1|16449|0|0|0|2f696d616765732f666f6f7465722e6a7067|]
+Apr  7 14:48:30 10.71.57.0 u79318824 open "/images/drycleaningwomens.jpg" flags READ mode 0666
+Apr  7 14:48:30 10.71.57.0 u79318824 close "/images/drycleanservice.jpg" bytes read 39241 written 0
+Apr  7 14:48:30 10.71.57.0 u79318824 [10.71.57.0|get|0|39241|0|0|0|2f696d616765732f647279636c65616e736572766963652e6a7067|]
+Apr  7 14:48:30 10.71.57.0 u79318824 open "/images/drycleaning.jpg" flags READ mode 0666
+Apr  7 14:48:30 10.71.57.0 u79318824 close "/images/drycleaningwomens.jpg" bytes read 93958 written 0
+Apr  7 14:48:30 10.71.57.0 u79318824 [10.71.57.0|get|0|93958|0|0|0|2f696d616765732f647279636c65616e696e67776f6d656e732e6a7067|]
+Apr  7 14:48:30 10.71.57.0 u79318824 open "/images/contactusbanner1.jpg" flags READ mode 0666
+Apr  7 14:48:30 10.71.57.0 u79318824 close "/images/drycleaning.jpg" bytes read 104214 written 0
+Apr  7 14:48:30 10.71.57.0 u79318824 [10.71.57.0|get|0|104214|0|0|0|2f696d616765732f647279636c65616e696e672e6a7067|]
+Apr  7 14:48:30 10.71.57.0 u79318824 open "/images/banner1.jpg" flags READ mode 0666
+Apr  7 14:48:30 10.71.57.0 u79318824 close "/images/contactusbanner1.jpg" bytes read 265288 written 0
+Apr  7 14:48:30 10.71.57.0 u79318824 [10.71.57.0|get|0|265288|0|0|0|2f696d616765732f636f6e74616374757362616e6e6572312e6a7067|]
+Apr  7 14:48:30 10.71.57.0 u79318824 close "/images/banner1.jpg" bytes read 42686 written 0
+Apr  7 14:48:30 10.71.57.0 u79318824 [10.71.57.0|get|0|42686|0|0|0|2f696d616765732f62616e6e6572312e6a7067|]
+Apr  7 14:48:30 10.71.57.0 u79318824 open "/images/banner.jpg" flags READ mode 0666
+Apr  7 14:48:30 10.71.57.0 u79318824 open "/images/alterationservice.jpg" flags READ mode 0666
+Apr  7 14:48:30 10.71.57.0 u79318824 close "/images/banner.jpg" bytes read 83421 written 0
+Apr  7 14:48:30 10.71.57.0 u79318824 [10.71.57.0|get|0|83421|0|0|0|2f696d616765732f62616e6e65722e6a7067|]
+Apr  7 14:48:30 10.71.57.0 u79318824 close "/images/alterationservice.jpg" bytes read 41745 written 0
+Apr  7 14:48:30 10.71.57.0 u79318824 [10.71.57.0|get|0|41745|0|0|0|2f696d616765732f616c7465726174696f6e736572766963652e6a7067|]
+Apr  7 14:48:31 10.71.57.0 u79318824 open "/images/RLS.png" flags READ mode 0666
+Apr  7 14:48:31 10.71.57.0 u79318824 open "/images/RLS.ico" flags READ mode 0666
+Apr  7 14:48:31 10.71.57.0 u79318824 close "/images/RLS.png" bytes read 19147 written 0
+Apr  7 14:48:31 10.71.57.0 u79318824 [10.71.57.0|get|0|19147|0|0|0|2f696d616765732f524c532e706e67|]
+Apr  7 14:48:31 10.71.57.0 u79318824 close "/images/RLS.ico" bytes read 18833 written 0
+Apr  7 14:48:31 10.71.57.0 u79318824 [10.71.57.0|get|0|18833|0|0|0|2f696d616765732f524c532e69636f|]
+Apr  7 14:48:31 10.71.57.0 u79318824 open "/images/ManipulacionLogi.jpg" flags READ mode 0666
+Apr  7 14:48:31 10.71.57.0 u79318824 open "/images/Ironing1.jpg" flags READ mode 0666
+Apr  7 14:48:31 10.71.57.0 u79318824 close "/images/ManipulacionLogi.jpg" bytes read 112917 written 0
+Apr  7 14:48:31 10.71.57.0 u79318824 [10.71.57.0|get|0|112917|0|0|0|2f696d616765732f4d616e6970756c6163696f6e4c6f67692e6a7067|]
+Apr  7 14:48:31 10.71.57.0 u79318824 close "/images/Ironing1.jpg" bytes read 49578 written 0
+Apr  7 14:48:31 10.71.57.0 u79318824 [10.71.57.0|get|0|49578|0|0|0|2f696d616765732f49726f6e696e67312e6a7067|]
+Apr  7 14:48:31 10.71.57.0 u79318824 open "/logs/access.log.13.7.gz" flags READ mode 0666
+Apr  7 14:48:31 10.71.57.0 u79318824 open "/logs/access.log.13.6.gz" flags READ mode 0666
+Apr  7 14:48:31 10.71.57.0 u79318824 close "/logs/access.log.13.7.gz" bytes read 2502 written 0
+Apr  7 14:48:31 10.71.57.0 u79318824 [10.71.57.0|get|0|2502|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e372e677a|]
+Apr  7 14:48:31 10.71.57.0 u79318824 close "/logs/access.log.13.6.gz" bytes read 3206 written 0
+Apr  7 14:48:31 10.71.57.0 u79318824 [10.71.57.0|get|0|3206|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e362e677a|]
+Apr  7 14:48:31 10.71.57.0 u79318824 open "/logs/access.log.13.4.gz" flags READ mode 0666
+Apr  7 14:48:31 10.71.57.0 u79318824 open "/logs/access.log.13.3.gz" flags READ mode 0666
+Apr  7 14:48:31 10.71.57.0 u79318824 close "/logs/access.log.13.4.gz" bytes read 3402 written 0
+Apr  7 14:48:31 10.71.57.0 u79318824 [10.71.57.0|get|0|3402|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e342e677a|]
+Apr  7 14:48:32 10.71.57.0 u79318824 close "/logs/access.log.13.3.gz" bytes read 2465 written 0
+Apr  7 14:48:32 10.71.57.0 u79318824 [10.71.57.0|get|1|2465|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e332e677a|]
+Apr  7 14:48:32 10.71.57.0 u79318824 open "/logs/access.log.13.2.gz" flags READ mode 0666
+Apr  7 14:48:32 10.71.57.0 u79318824 open "/logs/access.log.10.gz" flags READ mode 0666
+Apr  7 14:48:32 10.71.57.0 u79318824 close "/logs/access.log.13.2.gz" bytes read 2262 written 0
+Apr  7 14:48:32 10.71.57.0 u79318824 [10.71.57.0|get|0|2262|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e322e677a|]
+Apr  7 14:48:32 10.71.57.0 u79318824 close "/logs/access.log.10.gz" bytes read 9073 written 0
+Apr  7 14:48:32 10.71.57.0 u79318824 [10.71.57.0|get|0|9073|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e677a|]
+Apr  7 14:48:32 10.71.57.0 u79318824 open "/logs/sftp.log" flags READ mode 0666
+Apr  7 14:48:32 10.71.57.0 u79318824 open "/logs/access.log.14.2.gz" flags READ mode 0666
+Apr  7 14:48:32 10.71.57.0 u79318824 close "/logs/sftp.log" bytes read 16698 written 0
+Apr  7 14:48:32 10.71.57.0 u79318824 [10.71.57.0|get|0|16698|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Apr  7 14:48:32 10.71.57.0 u79318824 close "/logs/access.log.14.2.gz" bytes read 1733 written 0
+Apr  7 14:48:32 10.71.57.0 u79318824 [10.71.57.0|get|0|1733|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e322e677a|]
+Apr  7 14:48:32 10.71.57.0 u79318824 open "/logs/access.log.14.3" flags READ mode 0666
+Apr  7 14:48:32 10.71.57.0 u79318824 open "/logs/access.log.14.1.gz" flags READ mode 0666
+Apr  7 14:48:32 10.71.57.0 u79318824 close "/logs/access.log.14.3" bytes read 30149 written 0
+Apr  7 14:48:32 10.71.57.0 u79318824 [10.71.57.0|get|0|30149|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e33|]
+Apr  7 14:48:32 10.71.57.0 u79318824 close "/logs/access.log.14.1.gz" bytes read 1702 written 0
+Apr  7 14:48:32 10.71.57.0 u79318824 [10.71.57.0|get|0|1702|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e312e677a|]
+Apr  7 14:48:32 10.71.57.0 u79318824 open "/logs/access.log.12.gz" flags READ mode 0666
+Apr  7 14:48:32 10.71.57.0 u79318824 open "/logs/access.log.13.5.gz" flags READ mode 0666
+Apr  7 14:48:32 10.71.57.0 u79318824 close "/logs/access.log.12.gz" bytes read 10867 written 0
+Apr  7 14:48:32 10.71.57.0 u79318824 [10.71.57.0|get|0|10867|0|0|0|2f6c6f67732f6163636573732e6c6f672e31322e677a|]
+Apr  7 14:48:33 10.71.57.0 u79318824 close "/logs/access.log.13.5.gz" bytes read 1773 written 0
+Apr  7 14:48:33 10.71.57.0 u79318824 [10.71.57.0|get|1|1773|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e352e677a|]
+Apr  7 14:48:33 10.71.57.0 u79318824 open "/logs/access.log.11.gz" flags READ mode 0666
+Apr  7 14:48:33 10.71.57.0 u79318824 open "/logs/access.log.06.gz" flags READ mode 0666
+Apr  7 14:48:33 10.71.57.0 u79318824 close "/logs/access.log.11.gz" bytes read 10801 written 0
+Apr  7 14:48:33 10.71.57.0 u79318824 [10.71.57.0|get|0|10801|0|0|0|2f6c6f67732f6163636573732e6c6f672e31312e677a|]
+Apr  7 14:48:33 10.71.57.0 u79318824 close "/logs/access.log.06.gz" bytes read 11440 written 0
+Apr  7 14:48:33 10.71.57.0 u79318824 [10.71.57.0|get|0|11440|0|0|0|2f6c6f67732f6163636573732e6c6f672e30362e677a|]
+Apr  7 14:48:33 10.71.57.0 u79318824 open "/logs/access.log.13.1.gz" flags READ mode 0666
+Apr  7 14:48:33 10.71.57.0 u79318824 open "/logs/access.log.09.gz" flags READ mode 0666
+Apr  7 14:48:33 10.71.57.0 u79318824 close "/logs/access.log.13.1.gz" bytes read 2012 written 0
+Apr  7 14:48:33 10.71.57.0 u79318824 [10.71.57.0|get|0|2012|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e312e677a|]
+Apr  7 14:48:33 10.71.57.0 u79318824 close "/logs/access.log.09.gz" bytes read 13059 written 0
+Apr  7 14:48:33 10.71.57.0 u79318824 [10.71.57.0|get|0|13059|0|0|0|2f6c6f67732f6163636573732e6c6f672e30392e677a|]
+Apr  7 14:48:33 10.71.57.0 u79318824 open "/logs/access.log.08.gz" flags READ mode 0666
+Apr  7 14:48:33 10.71.57.0 u79318824 open "/logs/traffic.db" flags READ mode 0666
+Apr  7 14:48:33 10.71.57.0 u79318824 close "/logs/access.log.08.gz" bytes read 11220 written 0
+Apr  7 14:48:33 10.71.57.0 u79318824 [10.71.57.0|get|0|11220|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e677a|]
+Apr  7 14:48:33 10.71.57.0 u79318824 close "/logs/traffic.db" bytes read 49152 written 0
+Apr  7 14:48:33 10.71.57.0 u79318824 [10.71.57.0|get|0|49152|0|0|0|2f6c6f67732f747261666669632e6462|]
+Apr  7 14:48:33 10.71.57.0 u79318824 open "/logs/last_traffic" flags READ mode 0666
+Apr  7 14:48:33 10.71.57.0 u79318824 open "/logs/info.py" flags READ mode 0666
+Apr  7 14:48:33 10.71.57.0 u79318824 close "/logs/last_traffic" bytes read 0 written 0
+Apr  7 14:48:33 10.71.57.0 u79318824 [10.71.57.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Apr  7 14:48:34 10.71.57.0 u79318824 close "/logs/info.py" bytes read 6384 written 0
+Apr  7 14:48:34 10.71.57.0 u79318824 [10.71.57.0|get|1|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Apr  7 14:48:34 10.71.57.0 u79318824 open "/logs/info.pl" flags READ mode 0666
+Apr  7 14:48:34 10.71.57.0 u79318824 open "/logs/info.php5" flags READ mode 0666
+Apr  7 14:48:34 10.71.57.0 u79318824 close "/logs/info.pl" bytes read 4176 written 0
+Apr  7 14:48:34 10.71.57.0 u79318824 [10.71.57.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Apr  7 14:48:34 10.71.57.0 u79318824 close "/logs/info.php5" bytes read 21 written 0
+Apr  7 14:48:34 10.71.57.0 u79318824 [10.71.57.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Apr  7 14:48:34 10.71.57.0 u79318824 open "/logs/access.log.07.gz" flags READ mode 0666
+Apr  7 14:48:34 10.71.57.0 u79318824 open "/logs/.htaccess" flags READ mode 0666
+Apr  7 14:48:34 10.71.57.0 u79318824 close "/logs/access.log.07.gz" bytes read 11274 written 0
+Apr  7 14:48:34 10.71.57.0 u79318824 [10.71.57.0|get|0|11274|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e677a|]
+Apr  7 14:48:34 10.71.57.0 u79318824 close "/logs/.htaccess" bytes read 267 written 0
+Apr  7 14:48:34 10.71.57.0 u79318824 [10.71.57.0|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+Apr  7 14:48:34 10.71.57.0 u79318824 open "/logs/traffic.html/index.html" flags READ mode 0666
+Apr  7 14:48:34 10.71.57.0 u79318824 open "/logs/traffic.html/12.html" flags READ mode 0666
+Apr  7 14:48:34 10.71.57.0 u79318824 close "/logs/traffic.html/index.html" bytes read 7503 written 0
+Apr  7 14:48:34 10.71.57.0 u79318824 [10.71.57.0|get|0|7503|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Apr  7 14:48:34 10.71.57.0 u79318824 close "/logs/traffic.html/12.html" bytes read 11711 written 0
+Apr  7 14:48:34 10.71.57.0 u79318824 [10.71.57.0|get|0|11711|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Apr  7 14:48:34 10.71.57.0 u79318824 open "/logs/traffic.html/11.html" flags READ mode 0666
+Apr  7 14:48:35 10.71.57.0 u79318824 open "/logs/traffic.html/10.html" flags READ mode 0666
+Apr  7 14:48:35 10.71.57.0 u79318824 close "/logs/traffic.html/11.html" bytes read 11368 written 0
+Apr  7 14:48:35 10.71.57.0 u79318824 [10.71.57.0|get|1|11368|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Apr  7 14:48:35 10.71.57.0 u79318824 close "/logs/traffic.html/10.html" bytes read 11723 written 0
+Apr  7 14:48:35 10.71.57.0 u79318824 [10.71.57.0|get|0|11723|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Apr  7 14:48:35 10.71.57.0 u79318824 open "/logs/traffic.html/09.html" flags READ mode 0666
+Apr  7 14:48:35 10.71.57.0 u79318824 open "/logs/traffic.html/08.html" flags READ mode 0666
+Apr  7 14:48:35 10.71.57.0 u79318824 close "/logs/traffic.html/09.html" bytes read 11348 written 0
+Apr  7 14:48:35 10.71.57.0 u79318824 [10.71.57.0|get|0|11348|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Apr  7 14:48:35 10.71.57.0 u79318824 close "/logs/traffic.html/08.html" bytes read 11687 written 0
+Apr  7 14:48:35 10.71.57.0 u79318824 [10.71.57.0|get|0|11687|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Apr  7 14:48:35 10.71.57.0 u79318824 open "/logs/traffic.html/07.html" flags READ mode 0666
+Apr  7 14:48:35 10.71.57.0 u79318824 open "/logs/traffic.html/06.html" flags READ mode 0666
+Apr  7 14:48:35 10.71.57.0 u79318824 close "/logs/traffic.html/07.html" bytes read 11679 written 0
+Apr  7 14:48:35 10.71.57.0 u79318824 [10.71.57.0|get|0|11679|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Apr  7 14:48:35 10.71.57.0 u79318824 close "/logs/traffic.html/06.html" bytes read 11320 written 0
+Apr  7 14:48:35 10.71.57.0 u79318824 [10.71.57.0|get|0|11320|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Apr  7 14:48:35 10.71.57.0 u79318824 open "/logs/traffic.html/05.html" flags READ mode 0666
+Apr  7 14:48:35 10.71.57.0 u79318824 open "/logs/traffic.html/04.html" flags READ mode 0666
+Apr  7 14:48:35 10.71.57.0 u79318824 close "/logs/traffic.html/05.html" bytes read 11659 written 0
+Apr  7 14:48:35 10.71.57.0 u79318824 [10.71.57.0|get|0|11659|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Apr  7 14:48:35 10.71.57.0 u79318824 close "/logs/traffic.html/04.html" bytes read 3056 written 0
+Apr  7 14:48:35 10.71.57.0 u79318824 [10.71.57.0|get|0|3056|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Apr  7 14:48:35 10.71.57.0 u79318824 open "/logs/traffic.html/03.html" flags READ mode 0666
+Apr  7 14:48:36 10.71.57.0 u79318824 open "/logs/traffic.html/02.html" flags READ mode 0666
+Apr  7 14:48:36 10.71.57.0 u79318824 close "/logs/traffic.html/03.html" bytes read 11695 written 0
+Apr  7 14:48:36 10.71.57.0 u79318824 [10.71.57.0|get|1|11695|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30332e68746d6c|]
+Apr  7 14:48:36 10.71.57.0 u79318824 open "/logs/traffic.html/01.html" flags READ mode 0666
+Apr  7 14:48:36 10.71.57.0 u79318824 close "/logs/traffic.html/02.html" bytes read 10662 written 0
+Apr  7 14:48:36 10.71.57.0 u79318824 [10.71.57.0|get|0|10662|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+Apr  7 14:48:36 10.71.57.0 u79318824 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Apr  7 14:48:36 10.71.57.0 u79318824 sent status Permission denied
+Apr  7 14:48:36 10.71.57.0 u79318824 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Apr  7 14:48:36 10.71.57.0 u79318824 sent status Permission denied
+Apr  7 14:48:36 10.71.57.0 u79318824 close "/logs/traffic.html/01.html" bytes read 11663 written 0
+Apr  7 14:48:36 10.71.57.0 u79318824 [10.71.57.0|get|0|11663|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Apr  7 14:48:36 10.71.57.0 u79318824 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Apr  7 14:48:36 10.71.57.0 u79318824 sent status Permission denied
+Apr  7 14:48:36 10.71.57.0 u79318824 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Apr  7 14:48:36 10.71.57.0 u79318824 open "/logs/access.log.14.3" flags READ mode 0666
+Apr  7 14:48:36 10.71.57.0 u79318824 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Apr  7 14:48:36 10.71.57.0 u79318824 [10.71.57.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Apr  7 14:48:36 10.71.57.0 u79318824 close "/logs/access.log.14.3" bytes read 30149 written 0
+Apr  7 14:48:36 10.71.57.0 u79318824 [10.71.57.0|get|0|30149|0|0|0|2f6c6f67732f6163636573732e6c6f672e31342e33|]
+Apr  7 14:48:56 10.71.57.0 u79318824 open "/logs/01.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr  7 14:48:56 10.71.57.0 u79318824 sent status Permission denied
+Apr  7 14:48:57 10.71.57.0 u79318824 open "/logs/01.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr  7 14:48:57 10.71.57.0 u79318824 sent status Permission denied
+Apr  7 14:48:57 10.71.57.0 u79318824 open "/logs/01.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Apr  7 14:48:57 10.71.57.0 u79318824 sent status Permission denied
+Apr  7 14:49:36 10.71.57.0 u79318824 session closed for local user u79318824 from [10.71.57.0]
+Apr  7 14:49:36 10.71.57.0 u79318824 Connection closed by 10.71.57.0 port 15476
+Apr  7 14:49:57 10.71.57.0 u79318824 session closed for local user u79318824 from [10.71.57.0]
+Apr  7 14:49:57 10.71.57.0 u79318824 Connection closed by 10.71.57.0 port 15630
+Apr  7 15:53:30 10.71.56.0 u79318824 session closed for local user u79318824 from [10.71.56.0]
+Apr  7 17:06:03 10.71.57.0 u79318824 Connection from 10.71.57.0 port 52042 on 82.165.85.60 port 22
+Apr  7 17:06:03 10.71.57.0 u79318824 Accepted password for u79318824 from 10.71.57.0 port 52042 ssh2
+Apr  7 17:06:03 10.71.57.0 u79318824 Connection from 10.71.57.0 port 52044 on 82.165.85.60 port 22
+Apr  7 17:06:03 10.71.57.0 u79318824 Accepted password for u79318824 from 10.71.57.0 port 52044 ssh2
+Apr  7 17:06:03 10.71.56.0 u79318824 Connection from 10.71.56.0 port 51964 on 82.165.85.60 port 22
+Apr  7 17:06:03 10.71.56.0 u79318824 Accepted password for u79318824 from 10.71.56.0 port 51964 ssh2
+Apr  7 17:06:03 10.71.57.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.57.0 port 52044 id 0
+Apr  7 17:06:03 10.71.56.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.56.0 port 51964 id 0
+Apr  7 17:06:03 10.71.57.0 u79318824 session opened for local user u79318824 from [10.71.57.0]
+Apr  7 17:06:03 10.71.56.0 u79318824 session opened for local user u79318824 from [10.71.56.0]
+Apr  7 17:06:03 10.71.57.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.57.0 port 52042 id 0
+Apr  7 17:06:03 10.71.57.0 u79318824 session opened for local user u79318824 from [10.71.57.0]
+Apr  7 17:06:04 10.71.57.0 u79318824 open "/alterationsservice.html" flags READ mode 0666
+Apr  7 17:06:04 10.71.56.0 u79318824 open "/commercial.html" flags READ mode 0666
+Apr  7 17:06:04 10.71.57.0 u79318824 close "/alterationsservice.html" bytes read 3801 written 0
+Apr  7 17:06:04 10.71.57.0 u79318824 [10.71.57.0|get|0|3801|0|0|0|2f616c7465726174696f6e73736572766963652e68746d6c|]
+Apr  7 17:06:04 10.71.56.0 u79318824 close "/commercial.html" bytes read 2623 written 0
+Apr  7 17:06:04 10.71.56.0 u79318824 [10.71.56.0|get|0|2623|0|0|0|2f636f6d6d65726369616c2e68746d6c|]
+Apr  7 17:06:04 10.71.57.0 u79318824 open "/contactus.html" flags READ mode 0666
+Apr  7 17:06:04 10.71.56.0 u79318824 open "/drycleaningservice.html" flags READ mode 0666
+Apr  7 17:06:04 10.71.57.0 u79318824 close "/contactus.html" bytes read 3127 written 0
+Apr  7 17:06:04 10.71.57.0 u79318824 [10.71.57.0|get|0|3127|0|0|0|2f636f6e7461637475732e68746d6c|]
+Apr  7 17:06:04 10.71.56.0 u79318824 close "/drycleaningservice.html" bytes read 9764 written 0
+Apr  7 17:06:04 10.71.56.0 u79318824 [10.71.56.0|get|0|9764|0|0|0|2f647279636c65616e696e67736572766963652e68746d6c|]
+Apr  7 17:06:04 10.71.57.0 u79318824 open "/index.html" flags READ mode 0666
+Apr  7 17:06:04 10.71.56.0 u79318824 open "/ironingservice.html" flags READ mode 0666
+Apr  7 17:06:04 10.71.57.0 u79318824 close "/index.html" bytes read 3008 written 0
+Apr  7 17:06:04 10.71.57.0 u79318824 [10.71.57.0|get|0|3008|0|0|0|2f696e6465782e68746d6c|]
+Apr  7 17:06:04 10.71.56.0 u79318824 close "/ironingservice.html" bytes read 2651 written 0
+Apr  7 17:06:04 10.71.56.0 u79318824 [10.71.56.0|get|0|2651|0|0|0|2f69726f6e696e67736572766963652e68746d6c|]
+Apr  7 17:06:04 10.71.57.0 u79318824 open "/rls.css" flags READ mode 0666
+Apr  7 17:06:04 10.71.56.0 u79318824 open "/services.html" flags READ mode 0666
+Apr  7 17:06:05 10.71.57.0 u79318824 close "/rls.css" bytes read 1068 written 0
+Apr  7 17:06:05 10.71.57.0 u79318824 [10.71.57.0|get|0|1068|0|0|0|2f726c732e637373|]
+Apr  7 17:06:05 10.71.56.0 u79318824 close "/services.html" bytes read 2661 written 0
+Apr  7 17:06:05 10.71.56.0 u79318824 [10.71.56.0|get|1|2661|0|0|0|2f73657276696365732e68746d6c|]
+Apr  7 17:06:05 10.71.57.0 u79318824 sent status No such file
+Apr  7 17:06:05 10.71.56.0 u79318824 session closed for local user u79318824 from [10.71.56.0]
+Apr  7 17:06:05 10.71.57.0 u79318824 open "/washingservice.html" flags READ mode 0666
+Apr  7 17:06:05 10.71.56.0 u79318824 Connection closed by 10.71.56.0 port 51964
+Apr  7 17:06:05 10.71.57.0 u79318824 close "/washingservice.html" bytes read 4765 written 0
+Apr  7 17:06:05 10.71.57.0 u79318824 [10.71.57.0|get|0|4765|0|0|0|2f77617368696e67736572766963652e68746d6c|]
+Apr  7 17:06:05 10.71.57.0 u79318824 session closed for local user u79318824 from [10.71.57.0]
+Apr  7 17:06:05 10.71.57.0 u79318824 Connection closed by 10.71.57.0 port 52044
+Apr  7 17:06:05 10.71.56.0 u79318824 Connection from 10.71.56.0 port 55066 on 82.165.85.60 port 22
+Apr  7 17:06:05 10.71.56.0 u79318824 Accepted password for u79318824 from 10.71.56.0 port 55066 ssh2
+Apr  7 17:06:05 10.71.56.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.56.0 port 55066 id 0
+Apr  7 17:06:05 10.71.56.0 u79318824 session opened for local user u79318824 from [10.71.56.0]
+Apr  7 17:06:05 10.71.56.0 u79318824 Connection from 10.71.56.0 port 55218 on 82.165.85.60 port 22
+Apr  7 17:06:06 10.71.56.0 u79318824 Accepted password for u79318824 from 10.71.56.0 port 55218 ssh2
+Apr  7 17:06:06 10.71.56.0 u79318824 Starting session: subsystem 'sftp' for u79318824 from 10.71.56.0 port 55218 id 0
+Apr  7 17:06:06 10.71.56.0 u79318824 session opened for local user u79318824 from [10.71.56.0]
+Apr  7 17:06:06 10.71.56.0 u79318824 open "/images/washservice.jpg" flags READ mode 0666
+Apr  7 17:06:06 10.71.56.0 u79318824 open "/images/towels.jpg" flags READ mode 0666
+Apr  7 17:06:06 10.71.56.0 u79318824 close "/images/washservice.jpg" bytes read 36759 written 0
+Apr  7 17:06:06 10.71.56.0 u79318824 [10.71.56.0|get|0|36759|0|0|0|2f696d616765732f77617368736572766963652e6a7067|]
+Apr  7 17:06:06 10.71.56.0 u79318824 open "/images/pinsandtape.jpg" flags READ mode 0666
+Apr  7 17:06:06 10.71.56.0 u79318824 close "/images/towels.jpg" bytes read 129037 written 0
+Apr  7 17:06:06 10.71.56.0 u79318824 [10.71.56.0|get|0|129037|0|0|0|2f696d616765732f746f77656c732e6a7067|]
+Apr  7 17:06:06 10.71.56.0 u79318824 close "/images/pinsandtape.jpg" bytes read 59501 written 0
+Apr  7 17:06:06 10.71.56.0 u79318824 [10.71.56.0|get|0|59501|0|0|0|2f696d616765732f70696e73616e64746170652e6a7067|]
+Apr  7 17:06:06 10.71.56.0 u79318824 open "/images/pickupdelivery2.jpg" flags READ mode 0666
+Apr  7 17:06:06 10.71.56.0 u79318824 open "/images/machine.jpg" flags READ mode 0666
+Apr  7 17:06:06 10.71.56.0 u79318824 close "/images/pickupdelivery2.jpg" bytes read 82903 written 0
+Apr  7 17:06:06 10.71.56.0 u79318824 [10.71.56.0|get|0|82903|0|0|0|2f696d616765732f7069636b757064656c6976657279322e6a7067|]
+Apr  7 17:06:06 10.71.56.0 u79318824 close "/images/machine.jpg" bytes read 65347 written 0
+Apr  7 17:06:06 10.71.56.0 u79318824 [10.71.56.0|get|0|65347|0|0|0|2f696d616765732f6d616368696e652e6a7067|]
+Apr  7 17:06:06 10.71.56.0 u79318824 open "/images/linkserviceshover.jpg" flags READ mode 0666
+Apr  7 17:06:07 10.71.56.0 u79318824 open "/images/linkservices.jpg" flags READ mode 0666
+Apr  7 17:06:07 10.71.56.0 u79318824 close "/images/linkserviceshover.jpg" bytes read 13986 written 0
+Apr  7 17:06:07 10.71.56.0 u79318824 [10.71.56.0|get|1|13986|0|0|0|2f696d616765732f6c696e6b7365727669636573686f7665722e6a7067|]
+Apr  7 17:06:07 10.71.56.0 u79318824 close "/images/linkservices.jpg" bytes read 15084 written 0
+Apr  7 17:06:07 10.71.56.0 u79318824 [10.71.56.0|get|0|15084|0|0|0|2f696d616765732f6c696e6b73657276696365732e6a7067|]
+Apr  7 17:06:07 10.71.56.0 u79318824 open "/images/linkhomehover.jpg" flags READ mode 0666
+Apr  7 17:06:07 10.71.56.0 u79318824 open "/images/linkhome.jpg" flags READ mode 0666
+Apr  7 17:06:07 10.71.56.0 u79318824 close "/images/linkhomehover.jpg" bytes read 13856 written 0
+Apr  7 17:06:07 10.71.56.0 u79318824 [10.71.56.0|get|0|13856|0|0|0|2f696d616765732f6c696e6b686f6d65686f7665722e6a7067|]
+Apr  7 17:06:07 10.71.56.0 u79318824 close "/images/linkhome.jpg" bytes read 14159 written 0
+Apr  7 17:06:07 10.71.56.0 u79318824 [10.71.56.0|get|0|14159|0|0|0|2f696d616765732f6c696e6b686f6d652e6a7067|]
+Apr  7 17:06:07 10.71.56.0 u79318824 open "/images/linkcontactushover.jpg" flags READ mode 0666
+Apr  7 17:06:07 10.71.56.0 u79318824 open "/images/linkcontactus.jpg" flags READ mode 0666
+Apr  7 17:06:07 10.71.56.0 u79318824 close "/images/linkcontactushover.jpg" bytes read 15669 written 0
+Apr  7 17:06:07 10.71.56.0 u79318824 [10.71.56.0|get|0|15669|0|0|0|2f696d616765732f6c696e6b636f6e746163747573686f7665722e6a7067|]
+Apr  7 17:06:07 10.71.56.0 u79318824 close "/images/linkcontactus.jpg" bytes read 15179 written 0
+Apr  7 17:06:07 10.71.56.0 u79318824 [10.71.56.0|get|0|15179|0|0|0|2f696d616765732f6c696e6b636f6e7461637475732e6a7067|]
+Apr  7 17:06:07 10.71.56.0 u79318824 open "/images/linkcommercialhover.jpg" flags READ mode 0666
+Apr  7 17:06:07 10.71.56.0 u79318824 open "/images/linkcommercial.jpg" flags READ mode 0666
+Apr  7 17:06:07 10.71.56.0 u79318824 close "/images/linkcommercialhover.jpg" bytes read 15097 written 0
+Apr  7 17:06:07 10.71.56.0 u79318824 [10.71.56.0|get|0|15097|0|0|0|2f696d616765732f6c696e6b636f6d6d65726369616c686f7665722e6a7067|]
+Apr  7 17:06:07 10.71.56.0 u79318824 close "/images/linkcommercial.jpg" bytes read 15424 written 0
+Apr  7 17:06:07 10.71.56.0 u79318824 [10.71.56.0|get|0|15424|0|0|0|2f696d616765732f6c696e6b636f6d6d65726369616c2e6a7067|]
+Apr  7 17:06:07 10.71.56.0 u79318824 open "/images/laundry1.jpg" flags READ mode 0666
+Apr  7 17:06:08 10.71.56.0 u79318824 open "/images/ironservice.jpg" flags READ mode 0666
+Apr  7 17:06:08 10.71.56.0 u79318824 close "/images/laundry1.jpg" bytes read 84082 written 0
+Apr  7 17:06:08 10.71.56.0 u79318824 [10.71.56.0|get|1|84082|0|0|0|2f696d616765732f6c61756e647279312e6a7067|]
+Apr  7 17:06:08 10.71.56.0 u79318824 close "/images/ironservice.jpg" bytes read 33685 written 0
+Apr  7 17:06:08 10.71.56.0 u79318824 [10.71.56.0|get|0|33685|0|0|0|2f696d616765732f69726f6e736572766963652e6a7067|]
+Apr  7 17:06:08 10.71.56.0 u79318824 open "/images/index.html" flags READ mode 0666
+Apr  7 17:06:08 10.71.56.0 u79318824 close "/images/index.html" bytes read 229 written 0
+Apr  7 17:06:08 10.71.56.0 u79318824 [10.71.56.0|get|0|229|0|0|0|2f696d616765732f696e6465782e68746d6c|]
+Apr  7 17:06:08 10.71.56.0 u79318824 open "/images/homeshopfront.jpg" flags READ mode 0666
+Apr  7 17:06:08 10.71.56.0 u79318824 open "/images/homemainpic.jpg" flags READ mode 0666
+Apr  7 17:06:08 10.71.56.0 u79318824 close "/images/homeshopfront.jpg" bytes read 167680 written 0
+Apr  7 17:06:08 10.71.56.0 u79318824 [10.71.56.0|get|0|167680|0|0|0|2f696d616765732f686f6d6573686f7066726f6e742e6a7067|]
+Apr  7 17:06:08 10.71.56.0 u79318824 close "/images/homemainpic.jpg" bytes read 73687 written 0
+Apr  7 17:06:08 10.71.56.0 u79318824 [10.71.56.0|get|0|73687|0|0|0|2f696d616765732f686f6d656d61696e7069632e6a7067|]
+Apr  7 17:06:08 10.71.56.0 u79318824 open "/images/footer.jpg" flags READ mode 0666
+Apr  7 17:06:08 10.71.56.0 u79318824 open "/images/drycleanservice.jpg" flags READ mode 0666
+Apr  7 17:06:08 10.71.56.0 u79318824 close "/images/footer.jpg" bytes read 16449 written 0
+Apr  7 17:06:08 10.71.56.0 u79318824 [10.71.56.0|get|0|16449|0|0|0|2f696d616765732f666f6f7465722e6a7067|]
+Apr  7 17:06:08 10.71.56.0 u79318824 close "/images/drycleanservice.jpg" bytes read 39241 written 0
+Apr  7 17:06:08 10.71.56.0 u79318824 [10.71.56.0|get|0|39241|0|0|0|2f696d616765732f647279636c65616e736572766963652e6a7067|]
+Apr  7 17:06:08 10.71.56.0 u79318824 open "/images/drycleaningwomens.jpg" flags READ mode 0666
+Apr  7 17:06:08 10.71.56.0 u79318824 open "/images/drycleaning.jpg" flags READ mode 0666
+Apr  7 17:06:09 10.71.56.0 u79318824 close "/images/drycleaningwomens.jpg" bytes read 93958 written 0
+Apr  7 17:06:09 10.71.56.0 u79318824 [10.71.56.0|get|0|93958|0|0|0|2f696d616765732f647279636c65616e696e67776f6d656e732e6a7067|]
+Apr  7 17:06:09 10.71.56.0 u79318824 open "/images/contactusbanner1.jpg" flags READ mode 0666
+Apr  7 17:06:09 10.71.56.0 u79318824 close "/images/drycleaning.jpg" bytes read 104214 written 0
+Apr  7 17:06:09 10.71.56.0 u79318824 [10.71.56.0|get|1|104214|0|0|0|2f696d616765732f647279636c65616e696e672e6a7067|]
+Apr  7 17:06:09 10.71.56.0 u79318824 close "/images/contactusbanner1.jpg" bytes read 265288 written 0
+Apr  7 17:06:09 10.71.56.0 u79318824 [10.71.56.0|get|0|265288|0|0|0|2f696d616765732f636f6e74616374757362616e6e6572312e6a7067|]
+Apr  7 17:06:09 10.71.56.0 u79318824 open "/images/banner1.jpg" flags READ mode 0666
+Apr  7 17:06:09 10.71.56.0 u79318824 close "/images/banner1.jpg" bytes read 42686 written 0
+Apr  7 17:06:09 10.71.56.0 u79318824 [10.71.56.0|get|0|42686|0|0|0|2f696d616765732f62616e6e6572312e6a7067|]
+Apr  7 17:06:09 10.71.56.0 u79318824 open "/images/banner.jpg" flags READ mode 0666
+Apr  7 17:06:09 10.71.56.0 u79318824 open "/images/alterationservice.jpg" flags READ mode 0666
+Apr  7 17:06:09 10.71.56.0 u79318824 close "/images/banner.jpg" bytes read 83421 written 0
+Apr  7 17:06:09 10.71.56.0 u79318824 [10.71.56.0|get|0|83421|0|0|0|2f696d616765732f62616e6e65722e6a7067|]
+Apr  7 17:06:09 10.71.56.0 u79318824 close "/images/alterationservice.jpg" bytes read 41745 written 0
+Apr  7 17:06:09 10.71.56.0 u79318824 [10.71.56.0|get|0|41745|0|0|0|2f696d616765732f616c7465726174696f6e736572766963652e6a7067|]
+Apr  7 17:06:09 10.71.56.0 u79318824 open "/images/RLS.png" flags READ mode 0666
+Apr  7 17:06:09 10.71.56.0 u79318824 open "/images/RLS.ico" flags READ mode 0666
+Apr  7 17:06:09 10.71.56.0 u79318824 close "/images/RLS.png" bytes read 19147 written 0
+Apr  7 17:06:09 10.71.56.0 u79318824 [10.71.56.0|get|0|19147|0|0|0|2f696d616765732f524c532e706e67|]
+Apr  7 17:06:09 10.71.56.0 u79318824 close "/images/RLS.ico" bytes read 18833 written 0
+Apr  7 17:06:09 10.71.56.0 u79318824 [10.71.56.0|get|0|18833|0|0|0|2f696d616765732f524c532e69636f|]
+Apr  7 17:06:10 10.71.56.0 u79318824 open "/images/ManipulacionLogi.jpg" flags READ mode 0666
+Apr  7 17:06:10 10.71.56.0 u79318824 open "/images/Ironing1.jpg" flags READ mode 0666
+Apr  7 17:06:10 10.71.56.0 u79318824 close "/images/ManipulacionLogi.jpg" bytes read 112917 written 0
+Apr  7 17:06:10 10.71.56.0 u79318824 [10.71.56.0|get|0|112917|0|0|0|2f696d616765732f4d616e6970756c6163696f6e4c6f67692e6a7067|]
+Apr  7 17:06:10 10.71.56.0 u79318824 close "/images/Ironing1.jpg" bytes read 49578 written 0
+Apr  7 17:06:10 10.71.56.0 u79318824 [10.71.56.0|get|0|49578|0|0|0|2f696d616765732f49726f6e696e67312e6a7067|]
+Apr  7 17:06:10 10.71.56.0 u79318824 open "/logs/access.log.13.7.gz" flags READ mode 0666
+Apr  7 17:06:10 10.71.56.0 u79318824 open "/logs/access.log.13.6.gz" flags READ mode 0666
+Apr  7 17:06:10 10.71.56.0 u79318824 close "/logs/access.log.13.7.gz" bytes read 2502 written 0
+Apr  7 17:06:10 10.71.56.0 u79318824 [10.71.56.0|get|0|2502|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e372e677a|]
+Apr  7 17:06:10 10.71.56.0 u79318824 close "/logs/access.log.13.6.gz" bytes read 3206 written 0
+Apr  7 17:06:10 10.71.56.0 u79318824 [10.71.56.0|get|0|3206|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e362e677a|]
+Apr  7 17:06:10 10.71.56.0 u79318824 open "/logs/access.log.13.4.gz" flags READ mode 0666
+Apr  7 17:06:10 10.71.56.0 u79318824 open "/logs/access.log.13.3.gz" flags READ mode 0666
+Apr  7 17:06:10 10.71.56.0 u79318824 close "/logs/access.log.13.4.gz" bytes read 3402 written 0
+Apr  7 17:06:10 10.71.56.0 u79318824 [10.71.56.0|get|0|3402|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e342e677a|]
+Apr  7 17:06:10 10.71.56.0 u79318824 close "/logs/access.log.13.3.gz" bytes read 2465 written 0
+Apr  7 17:06:10 10.71.56.0 u79318824 [10.71.56.0|get|0|2465|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e332e677a|]
+Apr  7 17:06:10 10.71.56.0 u79318824 open "/logs/access.log.13.2.gz" flags READ mode 0666
+Apr  7 17:06:10 10.71.56.0 u79318824 open "/logs/access.log.10.gz" flags READ mode 0666
+Apr  7 17:06:11 10.71.56.0 u79318824 close "/logs/access.log.13.2.gz" bytes read 2262 written 0
+Apr  7 17:06:11 10.71.56.0 u79318824 [10.71.56.0|get|1|2262|0|0|0|2f6c6f67732f6163636573732e6c6f672e31332e322e677a|]
+Apr  7 17:06:11 10.71.56.0 u79318824 close "/logs/access.log.10.gz" bytes read 9073 written 0
+Apr  7 17:06:11 10.71.56.0 u79318824 [10.71.56.0|get|1|9073|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e677a|]
+Apr  7 17:06:11 10.71.56.0 u79318824 open "/logs/sftp.log" flags READ mode 0666
+Apr  7 17:06:11 10.71.56.0 u79318824 open "/logs/access.log.14.2.gz" flags READ mode 0666
